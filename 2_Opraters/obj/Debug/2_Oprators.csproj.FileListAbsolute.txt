@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\2_Opraters\bin\Debug\2_Opraters.exe.config
+C:\Users\Hp\source\repos\C#_new\2_Opraters\bin\Debug\2_Opraters.exe
+C:\Users\Hp\source\repos\C#_new\2_Opraters\bin\Debug\2_Opraters.pdb
+C:\Users\Hp\source\repos\C#_new\2_Opraters\obj\Debug\2_Oprators.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\2_Opraters\obj\Debug\2_Oprators.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\2_Opraters\obj\Debug\2_Opraters.exe
+C:\Users\Hp\source\repos\C#_new\2_Opraters\obj\Debug\2_Opraters.pdb
