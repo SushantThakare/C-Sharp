@@ -1,0 +1,49 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace C__new
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            bool b1 = true;
+            Console.WriteLine(b1);
+            Console.WriteLine(sizeof(bool));
+
+            byte ib = 255;
+            Console.WriteLine(ib);
+            Console.WriteLine(sizeof(byte));
+            Console.WriteLine(byte.MinValue);
+            Console.WriteLine(byte.MaxValue);
+
+            short s = 10;
+            Console.WriteLine($"{s} : {sizeof(short)}:{short.MinValue}: {short.MaxValue}");
+
+            int i = 10;
+            Console.WriteLine($"{i}:{sizeof(int)}:{int.MinValue}:{int.MaxValue}");
+
+            long l = 10;
+            Console.WriteLine($"{l}:{sizeof(long)} {long.MinValue}:{long.MaxValue}");
+
+            float f = 10.5f;
+            Console.WriteLine($"{f} : {sizeof(float)}:{float.MinValue}:{float.MaxValue}");
+
+            double d = 10.5;
+            Console.WriteLine($"{d} : {sizeof(double)}:{double.MinValue}:{double.MaxValue}");
+
+            decimal dc = 10.5m;
+            Console.WriteLine($"{dc} : {sizeof(decimal)}:{decimal.MinValue}:{decimal.MaxValue}");
+            char c = 'a';
+            Console.WriteLine($"{c} : {sizeof(char)}:{char.MinValue}:{char.MaxValue}");
+
+            string st = "SUShant";
+            Console.WriteLine($"{st}");
+
+            Console.ReadLine();
+        }
+    }
+}
