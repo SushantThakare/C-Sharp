@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\4-StringType\bin\Debug\4-StringType.exe.config
+C:\Users\Hp\source\repos\C#_new\4-StringType\bin\Debug\4-StringType.exe
+C:\Users\Hp\source\repos\C#_new\4-StringType\bin\Debug\4-StringType.pdb
+C:\Users\Hp\source\repos\C#_new\4-StringType\obj\Debug\4-StringType.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\4-StringType\obj\Debug\4-StringType.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\4-StringType\obj\Debug\4-StringType.exe
+C:\Users\Hp\source\repos\C#_new\4-StringType\obj\Debug\4-StringType.pdb
