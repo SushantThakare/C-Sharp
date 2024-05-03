@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\6_Nullable\bin\Debug\6_Nullable.exe.config
+C:\Users\Hp\source\repos\C#_new\6_Nullable\bin\Debug\6_Nullable.exe
+C:\Users\Hp\source\repos\C#_new\6_Nullable\bin\Debug\6_Nullable.pdb
+C:\Users\Hp\source\repos\C#_new\6_Nullable\obj\Debug\6_Nullable.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\6_Nullable\obj\Debug\6_Nullable.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\6_Nullable\obj\Debug\6_Nullable.exe
+C:\Users\Hp\source\repos\C#_new\6_Nullable\obj\Debug\6_Nullable.pdb
