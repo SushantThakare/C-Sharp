@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\7_ConditionalStatement\bin\Debug\7_ConditionalStatement.exe.config
+C:\Users\Hp\source\repos\C#_new\7_ConditionalStatement\bin\Debug\7_ConditionalStatement.exe
+C:\Users\Hp\source\repos\C#_new\7_ConditionalStatement\bin\Debug\7_ConditionalStatement.pdb
+C:\Users\Hp\source\repos\C#_new\7_ConditionalStatement\obj\Debug\7_ConditionalStatement.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\7_ConditionalStatement\obj\Debug\7_ConditionalStatement.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\7_ConditionalStatement\obj\Debug\7_ConditionalStatement.exe
+C:\Users\Hp\source\repos\C#_new\7_ConditionalStatement\obj\Debug\7_ConditionalStatement.pdb
