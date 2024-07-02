@@ -30,8 +30,8 @@ namespace Method
             printE(true);
             printE(false);
 
-            int[] numbers = new int[] { 10, 20, 30 };
-            printF(numbers);
+            int[] number = new int[] { 10, 20, 30 };
+            printF(number);
 
             printF(null);
            
