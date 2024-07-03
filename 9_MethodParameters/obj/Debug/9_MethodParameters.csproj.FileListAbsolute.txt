@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\9_MethodParameters\bin\Debug\9_MethodParameters.exe.config
+C:\Users\Hp\source\repos\C#_new\9_MethodParameters\bin\Debug\9_MethodParameters.exe
+C:\Users\Hp\source\repos\C#_new\9_MethodParameters\bin\Debug\9_MethodParameters.pdb
+C:\Users\Hp\source\repos\C#_new\9_MethodParameters\obj\Debug\9_MethodParameters.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\9_MethodParameters\obj\Debug\9_MethodParameters.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\9_MethodParameters\obj\Debug\9_MethodParameters.exe
+C:\Users\Hp\source\repos\C#_new\9_MethodParameters\obj\Debug\9_MethodParameters.pdb
