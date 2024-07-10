@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\LoopingStatement\bin\Debug\LoopingStatement.exe.config
+C:\Users\Hp\source\repos\C#_new\LoopingStatement\bin\Debug\LoopingStatement.exe
+C:\Users\Hp\source\repos\C#_new\LoopingStatement\bin\Debug\LoopingStatement.pdb
+C:\Users\Hp\source\repos\C#_new\LoopingStatement\obj\Debug\LoopingStatement.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\LoopingStatement\obj\Debug\LoopingStatement.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\LoopingStatement\obj\Debug\LoopingStatement.exe
+C:\Users\Hp\source\repos\C#_new\LoopingStatement\obj\Debug\LoopingStatement.pdb
