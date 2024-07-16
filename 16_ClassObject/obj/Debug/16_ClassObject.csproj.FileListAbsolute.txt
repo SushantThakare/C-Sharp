@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\16_ClassObject\bin\Debug\16_ClassObject.exe.config
+C:\Users\Hp\source\repos\C#_new\16_ClassObject\bin\Debug\16_ClassObject.exe
+C:\Users\Hp\source\repos\C#_new\16_ClassObject\bin\Debug\16_ClassObject.pdb
+C:\Users\Hp\source\repos\C#_new\16_ClassObject\obj\Debug\16_ClassObject.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\16_ClassObject\obj\Debug\16_ClassObject.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\16_ClassObject\obj\Debug\16_ClassObject.exe
+C:\Users\Hp\source\repos\C#_new\16_ClassObject\obj\Debug\16_ClassObject.pdb
