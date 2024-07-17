@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\17_Constructors\bin\Debug\17_Constructors.exe.config
+C:\Users\Hp\source\repos\C#_new\17_Constructors\bin\Debug\17_Constructors.exe
+C:\Users\Hp\source\repos\C#_new\17_Constructors\bin\Debug\17_Constructors.pdb
+C:\Users\Hp\source\repos\C#_new\17_Constructors\obj\Debug\17_Constructors.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\17_Constructors\obj\Debug\17_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\17_Constructors\obj\Debug\17_Constructors.exe
+C:\Users\Hp\source\repos\C#_new\17_Constructors\obj\Debug\17_Constructors.pdb
