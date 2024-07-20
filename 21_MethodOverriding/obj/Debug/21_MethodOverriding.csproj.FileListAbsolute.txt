@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\21_MethodOverriding\bin\Debug\21_MethodOverriding.exe.config
+C:\Users\Hp\source\repos\C#_new\21_MethodOverriding\bin\Debug\21_MethodOverriding.exe
+C:\Users\Hp\source\repos\C#_new\21_MethodOverriding\bin\Debug\21_MethodOverriding.pdb
+C:\Users\Hp\source\repos\C#_new\21_MethodOverriding\obj\Debug\21_MethodOverriding.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\21_MethodOverriding\obj\Debug\21_MethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\21_MethodOverriding\obj\Debug\21_MethodOverriding.exe
+C:\Users\Hp\source\repos\C#_new\21_MethodOverriding\obj\Debug\21_MethodOverriding.pdb
