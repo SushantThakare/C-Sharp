@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\22_MethodOverriding_Problems\bin\Debug\22_MethodOverriding_Problems.exe.config
+C:\Users\Hp\source\repos\C#_new\22_MethodOverriding_Problems\bin\Debug\22_MethodOverriding_Problems.exe
+C:\Users\Hp\source\repos\C#_new\22_MethodOverriding_Problems\bin\Debug\22_MethodOverriding_Problems.pdb
+C:\Users\Hp\source\repos\C#_new\22_MethodOverriding_Problems\obj\Debug\22_MethodOverriding_Problems.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\22_MethodOverriding_Problems\obj\Debug\22_MethodOverriding_Problems.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\22_MethodOverriding_Problems\obj\Debug\22_MethodOverriding_Problems.exe
+C:\Users\Hp\source\repos\C#_new\22_MethodOverriding_Problems\obj\Debug\22_MethodOverriding_Problems.pdb
