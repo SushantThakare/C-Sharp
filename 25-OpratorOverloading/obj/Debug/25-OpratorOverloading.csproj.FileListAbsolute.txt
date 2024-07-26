@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\25-OpratorOverloading\bin\Debug\25-OpratorOverloading.exe.config
+C:\Users\Hp\source\repos\C#_new\25-OpratorOverloading\bin\Debug\25-OpratorOverloading.exe
+C:\Users\Hp\source\repos\C#_new\25-OpratorOverloading\bin\Debug\25-OpratorOverloading.pdb
+C:\Users\Hp\source\repos\C#_new\25-OpratorOverloading\obj\Debug\25-OpratorOverloading.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\25-OpratorOverloading\obj\Debug\25-OpratorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\25-OpratorOverloading\obj\Debug\25-OpratorOverloading.exe
+C:\Users\Hp\source\repos\C#_new\25-OpratorOverloading\obj\Debug\25-OpratorOverloading.pdb
