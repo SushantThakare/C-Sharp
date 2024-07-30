@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\27-AbstractKeyword\bin\Debug\27-AbstractKeyword.exe.config
+C:\Users\Hp\source\repos\C#_new\27-AbstractKeyword\bin\Debug\27-AbstractKeyword.exe
+C:\Users\Hp\source\repos\C#_new\27-AbstractKeyword\bin\Debug\27-AbstractKeyword.pdb
+C:\Users\Hp\source\repos\C#_new\27-AbstractKeyword\obj\Debug\27-AbstractKeyword.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\27-AbstractKeyword\obj\Debug\27-AbstractKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\27-AbstractKeyword\obj\Debug\27-AbstractKeyword.exe
+C:\Users\Hp\source\repos\C#_new\27-AbstractKeyword\obj\Debug\27-AbstractKeyword.pdb
