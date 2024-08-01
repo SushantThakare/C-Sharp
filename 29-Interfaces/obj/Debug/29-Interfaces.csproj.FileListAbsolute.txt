@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\29-Interfaces\bin\Debug\29-Interfaces.exe.config
+C:\Users\Hp\source\repos\C#_new\29-Interfaces\bin\Debug\29-Interfaces.exe
+C:\Users\Hp\source\repos\C#_new\29-Interfaces\bin\Debug\29-Interfaces.pdb
+C:\Users\Hp\source\repos\C#_new\29-Interfaces\obj\Debug\29-Interfaces.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\29-Interfaces\obj\Debug\29-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\29-Interfaces\obj\Debug\29-Interfaces.exe
+C:\Users\Hp\source\repos\C#_new\29-Interfaces\obj\Debug\29-Interfaces.pdb
