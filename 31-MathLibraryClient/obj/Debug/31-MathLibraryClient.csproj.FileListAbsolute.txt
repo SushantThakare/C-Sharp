@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\C#_new\31-MathLibraryClient\bin\Debug\31-MathLibraryClient.exe.config
+C:\Users\Hp\source\repos\C#_new\31-MathLibraryClient\bin\Debug\31-MathLibraryClient.exe
+C:\Users\Hp\source\repos\C#_new\31-MathLibraryClient\bin\Debug\31-MathLibraryClient.pdb
+C:\Users\Hp\source\repos\C#_new\31-MathLibraryClient\obj\Debug\31-MathLibraryClient.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\31-MathLibraryClient\obj\Debug\31-MathLibraryClient.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\31-MathLibraryClient\obj\Debug\31-MathLibraryClient.exe
+C:\Users\Hp\source\repos\C#_new\31-MathLibraryClient\obj\Debug\31-MathLibraryClient.pdb
+C:\Users\Hp\source\repos\C#_new\31-MathLibraryClient\bin\Debug\30-MathLibrary.dll
+C:\Users\Hp\source\repos\C#_new\31-MathLibraryClient\bin\Debug\30-MathLibrary.pdb
+C:\Users\Hp\source\repos\C#_new\31-MathLibraryClient\obj\Debug\31-MathLibraryClient.csproj.CopyComplete

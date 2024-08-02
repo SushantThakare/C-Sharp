@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\C#_new\30-MathLibrary\bin\Debug\30-MathLibrary.dll
+C:\Users\Hp\source\repos\C#_new\30-MathLibrary\bin\Debug\30-MathLibrary.pdb
+C:\Users\Hp\source\repos\C#_new\30-MathLibrary\obj\Debug\30-MathLibrary.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\30-MathLibrary\obj\Debug\30-MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\30-MathLibrary\obj\Debug\30-MathLibrary.dll
+C:\Users\Hp\source\repos\C#_new\30-MathLibrary\obj\Debug\30-MathLibrary.pdb
