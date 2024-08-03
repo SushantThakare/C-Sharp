@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\C#_new\32-MathLibraryClient2\bin\Debug\32-MathLibraryClient2.exe.config
+C:\Users\Hp\source\repos\C#_new\32-MathLibraryClient2\bin\Debug\32-MathLibraryClient2.exe
+C:\Users\Hp\source\repos\C#_new\32-MathLibraryClient2\bin\Debug\32-MathLibraryClient2.pdb
+C:\Users\Hp\source\repos\C#_new\32-MathLibraryClient2\bin\Debug\30-MathLibrary.dll
+C:\Users\Hp\source\repos\C#_new\32-MathLibraryClient2\bin\Debug\30-MathLibrary.pdb
+C:\Users\Hp\source\repos\C#_new\32-MathLibraryClient2\obj\Debug\32-MathLibraryClient2.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\32-MathLibraryClient2\obj\Debug\32-MathLibraryClient2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\32-MathLibraryClient2\obj\Debug\32-MathLibraryClient2.csproj.CopyComplete
+C:\Users\Hp\source\repos\C#_new\32-MathLibraryClient2\obj\Debug\32-MathLibraryClient2.exe
+C:\Users\Hp\source\repos\C#_new\32-MathLibraryClient2\obj\Debug\32-MathLibraryClient2.pdb
