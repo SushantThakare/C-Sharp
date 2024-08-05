@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\33-ObjectType\bin\Debug\33-ObjectType.exe.config
+C:\Users\Hp\source\repos\C#_new\33-ObjectType\bin\Debug\33-ObjectType.exe
+C:\Users\Hp\source\repos\C#_new\33-ObjectType\bin\Debug\33-ObjectType.pdb
+C:\Users\Hp\source\repos\C#_new\33-ObjectType\obj\Debug\33-ObjectType.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\33-ObjectType\obj\Debug\33-ObjectType.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\33-ObjectType\obj\Debug\33-ObjectType.exe
+C:\Users\Hp\source\repos\C#_new\33-ObjectType\obj\Debug\33-ObjectType.pdb
