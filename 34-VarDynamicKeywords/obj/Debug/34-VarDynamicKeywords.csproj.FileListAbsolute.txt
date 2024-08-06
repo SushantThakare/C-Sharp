@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\34-VarDynamicKeywords\bin\Debug\34-VarDynamicKeywords.exe.config
+C:\Users\Hp\source\repos\C#_new\34-VarDynamicKeywords\bin\Debug\34-VarDynamicKeywords.exe
+C:\Users\Hp\source\repos\C#_new\34-VarDynamicKeywords\bin\Debug\34-VarDynamicKeywords.pdb
+C:\Users\Hp\source\repos\C#_new\34-VarDynamicKeywords\obj\Debug\34-VarDynamicKeywords.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\34-VarDynamicKeywords\obj\Debug\34-VarDynamicKeywords.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\34-VarDynamicKeywords\obj\Debug\34-VarDynamicKeywords.exe
+C:\Users\Hp\source\repos\C#_new\34-VarDynamicKeywords\obj\Debug\34-VarDynamicKeywords.pdb
