@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\35-AbstractionEncapsulation\bin\Debug\35-AbstractionEncapsulation.exe.config
+C:\Users\Hp\source\repos\C#_new\35-AbstractionEncapsulation\bin\Debug\35-AbstractionEncapsulation.exe
+C:\Users\Hp\source\repos\C#_new\35-AbstractionEncapsulation\bin\Debug\35-AbstractionEncapsulation.pdb
+C:\Users\Hp\source\repos\C#_new\35-AbstractionEncapsulation\obj\Debug\35-AbstractionEncapsulation.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\35-AbstractionEncapsulation\obj\Debug\35-AbstractionEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\35-AbstractionEncapsulation\obj\Debug\35-AbstractionEncapsulation.exe
+C:\Users\Hp\source\repos\C#_new\35-AbstractionEncapsulation\obj\Debug\35-AbstractionEncapsulation.pdb
