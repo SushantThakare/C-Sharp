@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\36-Properties\bin\Debug\36-Properties.exe.config
+C:\Users\Hp\source\repos\C#_new\36-Properties\bin\Debug\36-Properties.exe
+C:\Users\Hp\source\repos\C#_new\36-Properties\bin\Debug\36-Properties.pdb
+C:\Users\Hp\source\repos\C#_new\36-Properties\obj\Debug\36-Properties.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\36-Properties\obj\Debug\36-Properties.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\36-Properties\obj\Debug\36-Properties.exe
+C:\Users\Hp\source\repos\C#_new\36-Properties\obj\Debug\36-Properties.pdb
