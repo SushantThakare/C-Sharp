@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\37-Indexer\bin\Debug\37-Indexer.exe.config
+C:\Users\Hp\source\repos\C#_new\37-Indexer\bin\Debug\37-Indexer.exe
+C:\Users\Hp\source\repos\C#_new\37-Indexer\bin\Debug\37-Indexer.pdb
+C:\Users\Hp\source\repos\C#_new\37-Indexer\obj\Debug\37-Indexer.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\37-Indexer\obj\Debug\37-Indexer.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\37-Indexer\obj\Debug\37-Indexer.exe
+C:\Users\Hp\source\repos\C#_new\37-Indexer\obj\Debug\37-Indexer.pdb
