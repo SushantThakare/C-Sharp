@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\C#_new\38-CompanyLibrary\bin\Debug\38-CompanyLibrary.dll
+C:\Users\Hp\source\repos\C#_new\38-CompanyLibrary\bin\Debug\38-CompanyLibrary.pdb
+C:\Users\Hp\source\repos\C#_new\38-CompanyLibrary\obj\Debug\38-CompanyLibrary.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\38-CompanyLibrary\obj\Debug\38-CompanyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\38-CompanyLibrary\obj\Debug\38-CompanyLibrary.dll
+C:\Users\Hp\source\repos\C#_new\38-CompanyLibrary\obj\Debug\38-CompanyLibrary.pdb
