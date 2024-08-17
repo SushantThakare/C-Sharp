@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\C#_new\38-CompanyLibraryClient\bin\Debug\38-CompanyLibraryClient.exe.config
+C:\Users\Hp\source\repos\C#_new\38-CompanyLibraryClient\bin\Debug\38-CompanyLibraryClient.exe
+C:\Users\Hp\source\repos\C#_new\38-CompanyLibraryClient\bin\Debug\38-CompanyLibraryClient.pdb
+C:\Users\Hp\source\repos\C#_new\38-CompanyLibraryClient\bin\Debug\38-CompanyLibrary.dll
+C:\Users\Hp\source\repos\C#_new\38-CompanyLibraryClient\bin\Debug\38-CompanyLibrary.pdb
+C:\Users\Hp\source\repos\C#_new\38-CompanyLibraryClient\obj\Debug\38-CompanyLibraryClient.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\38-CompanyLibraryClient\obj\Debug\38-CompanyLibraryClient.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\38-CompanyLibraryClient\obj\Debug\38-CompanyLibraryClient.csproj.CopyComplete
+C:\Users\Hp\source\repos\C#_new\38-CompanyLibraryClient\obj\Debug\38-CompanyLibraryClient.exe
+C:\Users\Hp\source\repos\C#_new\38-CompanyLibraryClient\obj\Debug\38-CompanyLibraryClient.pdb
