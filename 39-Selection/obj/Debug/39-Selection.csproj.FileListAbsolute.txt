@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\C#_new\39-Selection\bin\Debug\39-Selection.exe.config
+C:\Users\Hp\source\repos\C#_new\39-Selection\bin\Debug\39-Selection.exe
+C:\Users\Hp\source\repos\C#_new\39-Selection\bin\Debug\39-Selection.pdb
+C:\Users\Hp\source\repos\C#_new\39-Selection\bin\Debug\39-StudentsSelection.dll
+C:\Users\Hp\source\repos\C#_new\39-Selection\bin\Debug\39-StudentsSelection.pdb
+C:\Users\Hp\source\repos\C#_new\39-Selection\obj\Debug\39-Selection.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\39-Selection\obj\Debug\39-Selection.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\39-Selection\obj\Debug\39-Selection.csproj.CopyComplete
+C:\Users\Hp\source\repos\C#_new\39-Selection\obj\Debug\39-Selection.exe
+C:\Users\Hp\source\repos\C#_new\39-Selection\obj\Debug\39-Selection.pdb
