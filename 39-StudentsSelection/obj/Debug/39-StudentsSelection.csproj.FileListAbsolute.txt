@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\C#_new\39-StudentsSelection\bin\Debug\39-StudentsSelection.dll
+C:\Users\Hp\source\repos\C#_new\39-StudentsSelection\bin\Debug\39-StudentsSelection.pdb
+C:\Users\Hp\source\repos\C#_new\39-StudentsSelection\obj\Debug\39-StudentsSelection.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\39-StudentsSelection\obj\Debug\39-StudentsSelection.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\39-StudentsSelection\obj\Debug\39-StudentsSelection.dll
+C:\Users\Hp\source\repos\C#_new\39-StudentsSelection\obj\Debug\39-StudentsSelection.pdb
