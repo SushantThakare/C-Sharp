@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\C#_new\40-ExceptionHandling\bin\Debug\40-ExceptionHandling.exe.config
+C:\Users\Hp\source\repos\C#_new\40-ExceptionHandling\bin\Debug\40-ExceptionHandling.exe
+C:\Users\Hp\source\repos\C#_new\40-ExceptionHandling\bin\Debug\40-ExceptionHandling.pdb
+C:\Users\Hp\source\repos\C#_new\40-ExceptionHandling\obj\Debug\40-ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\40-ExceptionHandling\obj\Debug\40-ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\40-ExceptionHandling\obj\Debug\40-ExceptionHandling.exe
+C:\Users\Hp\source\repos\C#_new\40-ExceptionHandling\obj\Debug\40-ExceptionHandling.pdb
+C:\Users\Hp\source\repos\C#_new\40-ExceptionHandling\bin\Debug\Logs\errors.txt
