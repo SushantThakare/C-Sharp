@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\41-Exception_Handling_Scenario\bin\Debug\41-Exception_Handling_Scenario.exe.config
+C:\Users\Hp\source\repos\C#_new\41-Exception_Handling_Scenario\bin\Debug\41-Exception_Handling_Scenario.exe
+C:\Users\Hp\source\repos\C#_new\41-Exception_Handling_Scenario\bin\Debug\41-Exception_Handling_Scenario.pdb
+C:\Users\Hp\source\repos\C#_new\41-Exception_Handling_Scenario\obj\Debug\41-Exception_Handling_Scenario.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\41-Exception_Handling_Scenario\obj\Debug\41-Exception_Handling_Scenario.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\41-Exception_Handling_Scenario\obj\Debug\41-Exception_Handling_Scenario.exe
+C:\Users\Hp\source\repos\C#_new\41-Exception_Handling_Scenario\obj\Debug\41-Exception_Handling_Scenario.pdb
