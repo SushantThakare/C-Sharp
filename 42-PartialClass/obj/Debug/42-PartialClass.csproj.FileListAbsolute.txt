@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\42-PartialClass\bin\Debug\42-PartialClass.exe.config
+C:\Users\Hp\source\repos\C#_new\42-PartialClass\bin\Debug\42-PartialClass.exe
+C:\Users\Hp\source\repos\C#_new\42-PartialClass\bin\Debug\42-PartialClass.pdb
+C:\Users\Hp\source\repos\C#_new\42-PartialClass\obj\Debug\42-PartialClass.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\42-PartialClass\obj\Debug\42-PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\42-PartialClass\obj\Debug\42-PartialClass.exe
+C:\Users\Hp\source\repos\C#_new\42-PartialClass\obj\Debug\42-PartialClass.pdb
