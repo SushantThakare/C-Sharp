@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\43-Generics\bin\Debug\43-Generics.exe.config
+C:\Users\Hp\source\repos\C#_new\43-Generics\bin\Debug\43-Generics.exe
+C:\Users\Hp\source\repos\C#_new\43-Generics\bin\Debug\43-Generics.pdb
+C:\Users\Hp\source\repos\C#_new\43-Generics\obj\Debug\43-Generics.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\43-Generics\obj\Debug\43-Generics.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\43-Generics\obj\Debug\43-Generics.exe
+C:\Users\Hp\source\repos\C#_new\43-Generics\obj\Debug\43-Generics.pdb
