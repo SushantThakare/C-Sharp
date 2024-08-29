@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\45-Delegates\bin\Debug\45-Delegates.exe.config
+C:\Users\Hp\source\repos\C#_new\45-Delegates\bin\Debug\45-Delegates.exe
+C:\Users\Hp\source\repos\C#_new\45-Delegates\bin\Debug\45-Delegates.pdb
+C:\Users\Hp\source\repos\C#_new\45-Delegates\obj\Debug\45-Delegates.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\45-Delegates\obj\Debug\45-Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\45-Delegates\obj\Debug\45-Delegates.exe
+C:\Users\Hp\source\repos\C#_new\45-Delegates\obj\Debug\45-Delegates.pdb
