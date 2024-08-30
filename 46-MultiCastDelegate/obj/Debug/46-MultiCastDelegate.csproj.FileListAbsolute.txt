@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\46-MultiCastDelegate\bin\Debug\46-MultiCastDelegate.exe.config
+C:\Users\Hp\source\repos\C#_new\46-MultiCastDelegate\bin\Debug\46-MultiCastDelegate.exe
+C:\Users\Hp\source\repos\C#_new\46-MultiCastDelegate\bin\Debug\46-MultiCastDelegate.pdb
+C:\Users\Hp\source\repos\C#_new\46-MultiCastDelegate\obj\Debug\46-MultiCastDelegate.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\46-MultiCastDelegate\obj\Debug\46-MultiCastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\46-MultiCastDelegate\obj\Debug\46-MultiCastDelegate.exe
+C:\Users\Hp\source\repos\C#_new\46-MultiCastDelegate\obj\Debug\46-MultiCastDelegate.pdb
