@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\47-GenericDelegate\bin\Debug\47-GenericDelegate.exe.config
+C:\Users\Hp\source\repos\C#_new\47-GenericDelegate\bin\Debug\47-GenericDelegate.exe
+C:\Users\Hp\source\repos\C#_new\47-GenericDelegate\bin\Debug\47-GenericDelegate.pdb
+C:\Users\Hp\source\repos\C#_new\47-GenericDelegate\obj\Debug\47-GenericDelegate.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\47-GenericDelegate\obj\Debug\47-GenericDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\47-GenericDelegate\obj\Debug\47-GenericDelegate.exe
+C:\Users\Hp\source\repos\C#_new\47-GenericDelegate\obj\Debug\47-GenericDelegate.pdb
