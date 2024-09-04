@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\49-IsAsKeywords\bin\Debug\49-IsAsKeywords.exe.config
+C:\Users\Hp\source\repos\C#_new\49-IsAsKeywords\bin\Debug\49-IsAsKeywords.exe
+C:\Users\Hp\source\repos\C#_new\49-IsAsKeywords\bin\Debug\49-IsAsKeywords.pdb
+C:\Users\Hp\source\repos\C#_new\49-IsAsKeywords\obj\Debug\49-IsAsKeywords.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\49-IsAsKeywords\obj\Debug\49-IsAsKeywords.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\49-IsAsKeywords\obj\Debug\49-IsAsKeywords.exe
+C:\Users\Hp\source\repos\C#_new\49-IsAsKeywords\obj\Debug\49-IsAsKeywords.pdb
