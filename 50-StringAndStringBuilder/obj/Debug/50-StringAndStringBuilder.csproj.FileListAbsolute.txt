@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\50-StringAndStringBuilder\bin\Debug\50-StringAndStringBuilder.exe.config
+C:\Users\Hp\source\repos\C#_new\50-StringAndStringBuilder\bin\Debug\50-StringAndStringBuilder.exe
+C:\Users\Hp\source\repos\C#_new\50-StringAndStringBuilder\bin\Debug\50-StringAndStringBuilder.pdb
+C:\Users\Hp\source\repos\C#_new\50-StringAndStringBuilder\obj\Debug\50-StringAndStringBuilder.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\50-StringAndStringBuilder\obj\Debug\50-StringAndStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\50-StringAndStringBuilder\obj\Debug\50-StringAndStringBuilder.exe
+C:\Users\Hp\source\repos\C#_new\50-StringAndStringBuilder\obj\Debug\50-StringAndStringBuilder.pdb
