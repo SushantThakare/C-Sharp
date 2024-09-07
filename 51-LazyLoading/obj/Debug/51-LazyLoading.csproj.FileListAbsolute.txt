@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\51-LazyLoading\bin\Debug\51-LazyLoading.exe.config
+C:\Users\Hp\source\repos\C#_new\51-LazyLoading\bin\Debug\51-LazyLoading.exe
+C:\Users\Hp\source\repos\C#_new\51-LazyLoading\bin\Debug\51-LazyLoading.pdb
+C:\Users\Hp\source\repos\C#_new\51-LazyLoading\obj\Debug\51-LazyLoading.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\51-LazyLoading\obj\Debug\51-LazyLoading.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\51-LazyLoading\obj\Debug\51-LazyLoading.exe
+C:\Users\Hp\source\repos\C#_new\51-LazyLoading\obj\Debug\51-LazyLoading.pdb
