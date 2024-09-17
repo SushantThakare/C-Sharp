@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\52-ReflectionClass\bin\Debug\52-ReflectionClass.exe.config
+C:\Users\Hp\source\repos\C#_new\52-ReflectionClass\bin\Debug\52-ReflectionClass.exe
+C:\Users\Hp\source\repos\C#_new\52-ReflectionClass\bin\Debug\52-ReflectionClass.pdb
+C:\Users\Hp\source\repos\C#_new\52-ReflectionClass\obj\Debug\52-ReflectionClass.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\52-ReflectionClass\obj\Debug\52-ReflectionClass.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\52-ReflectionClass\obj\Debug\52-ReflectionClass.exe
+C:\Users\Hp\source\repos\C#_new\52-ReflectionClass\obj\Debug\52-ReflectionClass.pdb
