@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\53-ExtensionMethod\bin\Debug\53-ExtensionMethod.exe.config
+C:\Users\Hp\source\repos\C#_new\53-ExtensionMethod\bin\Debug\53-ExtensionMethod.exe
+C:\Users\Hp\source\repos\C#_new\53-ExtensionMethod\bin\Debug\53-ExtensionMethod.pdb
+C:\Users\Hp\source\repos\C#_new\53-ExtensionMethod\obj\Debug\53-ExtensionMethod.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\53-ExtensionMethod\obj\Debug\53-ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\53-ExtensionMethod\obj\Debug\53-ExtensionMethod.exe
+C:\Users\Hp\source\repos\C#_new\53-ExtensionMethod\obj\Debug\53-ExtensionMethod.pdb
