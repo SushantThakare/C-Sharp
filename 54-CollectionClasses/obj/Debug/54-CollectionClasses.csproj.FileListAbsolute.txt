@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\54-CollectionClasses\bin\Debug\54-CollectionClasses.exe.config
+C:\Users\Hp\source\repos\C#_new\54-CollectionClasses\bin\Debug\54-CollectionClasses.exe
+C:\Users\Hp\source\repos\C#_new\54-CollectionClasses\bin\Debug\54-CollectionClasses.pdb
+C:\Users\Hp\source\repos\C#_new\54-CollectionClasses\obj\Debug\54-CollectionClasses.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\54-CollectionClasses\obj\Debug\54-CollectionClasses.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\54-CollectionClasses\obj\Debug\54-CollectionClasses.exe
+C:\Users\Hp\source\repos\C#_new\54-CollectionClasses\obj\Debug\54-CollectionClasses.pdb
