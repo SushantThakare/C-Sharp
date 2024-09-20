@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\55-GenericCollectionClasses\bin\Debug\55-GenericCollectionClasses.exe.config
+C:\Users\Hp\source\repos\C#_new\55-GenericCollectionClasses\bin\Debug\55-GenericCollectionClasses.exe
+C:\Users\Hp\source\repos\C#_new\55-GenericCollectionClasses\bin\Debug\55-GenericCollectionClasses.pdb
+C:\Users\Hp\source\repos\C#_new\55-GenericCollectionClasses\obj\Debug\55-GenericCollectionClasses.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\55-GenericCollectionClasses\obj\Debug\55-GenericCollectionClasses.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\55-GenericCollectionClasses\obj\Debug\55-GenericCollectionClasses.exe
+C:\Users\Hp\source\repos\C#_new\55-GenericCollectionClasses\obj\Debug\55-GenericCollectionClasses.pdb
