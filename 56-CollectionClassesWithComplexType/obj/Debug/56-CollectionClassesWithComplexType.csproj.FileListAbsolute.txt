@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\56-CollectionClassesWithComplexType\bin\Debug\56-CollectionClassesWithComplexType.exe.config
+C:\Users\Hp\source\repos\C#_new\56-CollectionClassesWithComplexType\bin\Debug\56-CollectionClassesWithComplexType.exe
+C:\Users\Hp\source\repos\C#_new\56-CollectionClassesWithComplexType\bin\Debug\56-CollectionClassesWithComplexType.pdb
+C:\Users\Hp\source\repos\C#_new\56-CollectionClassesWithComplexType\obj\Debug\56-CollectionClassesWithComplexType.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\56-CollectionClassesWithComplexType\obj\Debug\56-CollectionClassesWithComplexType.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\56-CollectionClassesWithComplexType\obj\Debug\56-CollectionClassesWithComplexType.exe
+C:\Users\Hp\source\repos\C#_new\56-CollectionClassesWithComplexType\obj\Debug\56-CollectionClassesWithComplexType.pdb
