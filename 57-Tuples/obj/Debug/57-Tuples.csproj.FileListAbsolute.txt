@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\57-Tuples\bin\Debug\57-Tuples.exe.config
+C:\Users\Hp\source\repos\C#_new\57-Tuples\bin\Debug\57-Tuples.exe
+C:\Users\Hp\source\repos\C#_new\57-Tuples\bin\Debug\57-Tuples.pdb
+C:\Users\Hp\source\repos\C#_new\57-Tuples\obj\Debug\57-Tuples.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\57-Tuples\obj\Debug\57-Tuples.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\57-Tuples\obj\Debug\57-Tuples.exe
+C:\Users\Hp\source\repos\C#_new\57-Tuples\obj\Debug\57-Tuples.pdb
