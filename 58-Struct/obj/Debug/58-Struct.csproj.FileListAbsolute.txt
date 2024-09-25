@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\58-Struct\bin\Debug\58-Struct.exe.config
+C:\Users\Hp\source\repos\C#_new\58-Struct\bin\Debug\58-Struct.exe
+C:\Users\Hp\source\repos\C#_new\58-Struct\bin\Debug\58-Struct.pdb
+C:\Users\Hp\source\repos\C#_new\58-Struct\obj\Debug\58-Struct.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\58-Struct\obj\Debug\58-Struct.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\58-Struct\obj\Debug\58-Struct.exe
+C:\Users\Hp\source\repos\C#_new\58-Struct\obj\Debug\58-Struct.pdb
