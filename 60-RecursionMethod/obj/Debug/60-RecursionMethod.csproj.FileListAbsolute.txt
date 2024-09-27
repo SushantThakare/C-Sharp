@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\C#_new\60-RecursionMethod\bin\Debug\60-RecursionMethod.exe.config
+C:\Users\Hp\source\repos\C#_new\60-RecursionMethod\bin\Debug\60-RecursionMethod.exe
+C:\Users\Hp\source\repos\C#_new\60-RecursionMethod\bin\Debug\60-RecursionMethod.pdb
+C:\Users\Hp\source\repos\C#_new\60-RecursionMethod\obj\Debug\60-RecursionMethod.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_new\60-RecursionMethod\obj\Debug\60-RecursionMethod.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_new\60-RecursionMethod\obj\Debug\60-RecursionMethod.exe
+C:\Users\Hp\source\repos\C#_new\60-RecursionMethod\obj\Debug\60-RecursionMethod.pdb
